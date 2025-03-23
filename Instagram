@@ -1,4 +1,4 @@
-#Test Rule Of Instagram
+#Instagram规则
 [Rule]
 DOMAIN-SUFFIX,instagram.com
 DOMAIN-SUFFIX,cdninstagram.com
